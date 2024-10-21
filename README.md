@@ -43,6 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+[mir 1.2.pdf](https://github.com/user-attachments/files/17455640/mir.1.2.pdf)
 
-## RESULT
+## 
+RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
